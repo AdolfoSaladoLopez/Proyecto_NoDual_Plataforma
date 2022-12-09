@@ -6,23 +6,19 @@ Realizado por:
 - Salado, Adolfo.
 
 ---
-<p align="center">
-#### DOCUMENTACIÓN DEL PROYECTO
+<p align="center" style="color:darkred" >
+DOCUMENTACIÓN DEL PROYECTO
 </p>
----
 https://docs.google.com/document/d/1jpGYpiO9IHmyi2w990yAk7zoGQzITrzX49i-7lsxRJU/edit?usp=sharing
 
 ---
-<p align="center">
-#### TABLÓN TRELLO
+<p align="center" style="color:darkred">
+TABLÓN TRELLO
 </p>
-
----
 https://trello.com/b/MTKaaNWP/no-dual-proyectos-para-desarrolladores
-
 ---
-<p align="center">
-#### PRESENTACIONES
+<p align="center" style="color:darkred">
+PRESENTACIONES
 </p>
 ---
 PRESENTACIÓN - SEMANA 1 - VIERNES, 18 DICIEMBRE: </br>
