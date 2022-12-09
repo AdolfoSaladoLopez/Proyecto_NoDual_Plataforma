@@ -24,7 +24,6 @@ https://trello.com/b/MTKaaNWP/no-dual-proyectos-para-desarrolladores
 PRESENTACIONES
 </p>
 
----
 PRESENTACIÓN - SEMANA 1 - VIERNES, 18 DICIEMBRE: </br>
 https://www.canva.com/design/DAFSGy_jwQs/EiYJJQ5rJSUjOtE0cRpzsQ/edit?utm_content=DAFSGy_jwQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 </br></br>
