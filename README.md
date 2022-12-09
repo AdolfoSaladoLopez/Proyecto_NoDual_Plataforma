@@ -12,14 +12,18 @@ DOCUMENTACIÓN DEL PROYECTO
 https://docs.google.com/document/d/1jpGYpiO9IHmyi2w990yAk7zoGQzITrzX49i-7lsxRJU/edit?usp=sharing
 
 ---
+
 <p align="center" style="color:darkred">
 TABLÓN TRELLO
 </p>
 https://trello.com/b/MTKaaNWP/no-dual-proyectos-para-desarrolladores
+
 ---
+
 <p align="center" style="color:darkred">
 PRESENTACIONES
 </p>
+
 ---
 PRESENTACIÓN - SEMANA 1 - VIERNES, 18 DICIEMBRE: </br>
 https://www.canva.com/design/DAFSGy_jwQs/EiYJJQ5rJSUjOtE0cRpzsQ/edit?utm_content=DAFSGy_jwQs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
