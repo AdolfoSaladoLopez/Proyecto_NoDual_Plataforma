@@ -36,3 +36,6 @@ https://docs.google.com/presentation/d/12tmo8tUlKQuJX0Ufarp81GvcrfrTO8--WVZ0NXU8
 PRESENTACIÓN - SEMANA 4 - MIÉRCOLES, 7 DICIEMBRE: </br>
 https://www.canva.com/design/DAFUD-jW3Js/cOY5rYREjy2kgasRKzUr4Q/view?utm_content=DAFUD-jW3Js&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 </br></br>
+PRESENTACIÓN - SEMANA 5 - VIERNES, 16 DICIEMBRE: </br>
+https://www.canva.com/design/DAFU6AU5yNA/qvAAI4cF-MmzrMNNvWDmNQ/view?utm_content=DAFU6AU5yNA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+</br></br>
