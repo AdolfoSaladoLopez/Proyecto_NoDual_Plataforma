@@ -13,6 +13,13 @@ https://docs.google.com/document/d/1jpGYpiO9IHmyi2w990yAk7zoGQzITrzX49i-7lsxRJU/
 
 ---
 
+<p align="center" style="color:darkred" >
+DOCUMENTACIÓN DE INFORMACIÓN
+</p>
+https://docs.google.com/document/d/1iwOCIiokQApJibPSoYqmSjbx0j4zVi_zbs1DPGfyctk/edit?usp=sharing
+
+---
+
 <p align="center" style="color:darkred">
 TABLÓN TRELLO
 </p>
