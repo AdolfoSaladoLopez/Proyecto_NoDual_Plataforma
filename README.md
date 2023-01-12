@@ -13,6 +13,13 @@ https://docs.google.com/document/d/1jpGYpiO9IHmyi2w990yAk7zoGQzITrzX49i-7lsxRJU/
 
 ---
 
+<p align="center" style="color:darkred" >
+DOCUMENTACIÓN DE INFORMACIÓN
+</p>
+https://docs.google.com/document/d/1iwOCIiokQApJibPSoYqmSjbx0j4zVi_zbs1DPGfyctk/edit?usp=sharing
+
+---
+
 <p align="center" style="color:darkred">
 TABLÓN TRELLO
 </p>
@@ -38,4 +45,7 @@ https://www.canva.com/design/DAFUD-jW3Js/cOY5rYREjy2kgasRKzUr4Q/view?utm_content
 </br></br>
 PRESENTACIÓN - SEMANA 5 - VIERNES, 16 DICIEMBRE: </br>
 https://www.canva.com/design/DAFU6AU5yNA/qvAAI4cF-MmzrMNNvWDmNQ/view?utm_content=DAFU6AU5yNA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+</br></br>
+PRESENTACIÓN - SEMANA 6 - JUEVES, 22 DICIEMBRE: </br>
+https://docs.google.com/presentation/d/18gc5noSbnub0InTj71MB3FTjHPNS_YOvCAyXzz1Wzbg/edit?usp=sharing
 </br></br>
