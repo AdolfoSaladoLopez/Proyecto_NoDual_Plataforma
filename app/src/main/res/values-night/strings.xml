@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android">Android</string>
+    <string name="test">Test</string>
+    <string name="editar">Editar</string>
+    <string name="favorito">favorito</string>
+    <string name="content_description_favorite" />
+    <string name="content_description_more" />
+    <string name="m_s">Más</string>
+    <string name="edit">Edit</string>
+</resources>
