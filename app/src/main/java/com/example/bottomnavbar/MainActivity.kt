@@ -5,7 +5,9 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.AdapterView.OnItemSelectedListener
+import android.widget.ArrayAdapter
 import android.widget.ListView
+import android.widget.Spinner
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.RecyclerView
@@ -19,6 +21,7 @@ class MainActivity : AppCompatActivity() {
     private var listaProyectos: MutableList<Proyecto> = rellenarProyectos()
     private lateinit var binding: ActivityMainBinding
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
@@ -26,6 +29,21 @@ class MainActivity : AppCompatActivity() {
         cambiaFragment(BlankFragmenPrueba())
 
         adapterBandera = CardAdapter(this, R.layout.cartas, listaProyectos)
+
+        binding.filtrar.setOnClickListener{
+            when(it.id){
+                R.id.filtrar -> cambiaFragment(Filtrado_Fragment())
+            }
+        }
+
+//        val spinner: Spinner = findViewById(R.id.spinner)
+
+        ArrayAdapter.createFromResource(this, R.array.ubicacion,android.R.layout.simple_spinner_item).also {
+
+            adapterBandera -> adapterBandera.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
+
+            //spinner.adapter = adapterBandera
+        }
 
 
         binding.bottomNavigation.setOnItemSelectedListener {
@@ -36,7 +54,7 @@ class MainActivity : AppCompatActivity() {
 
                     R.id.item_3 -> cambiaFragment(BlankFragmentPrueba2())
 
-                    //R.id.item_4 ->
+                    R.id.item_4 -> cambiaFragment(Perfil_Fragment())
 
                 else -> {
 
